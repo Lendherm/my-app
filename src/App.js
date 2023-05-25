@@ -9,7 +9,7 @@ const App = () => {
         <Card.Body>
           <Card.Title>Mi Aplicación</Card.Title>
           <SearchBar />
-          {/* Aquí puedes agregar el resto de tu aplicación */}
+          
         </Card.Body>
       </Card>
     </div>
