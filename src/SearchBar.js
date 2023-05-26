@@ -53,7 +53,7 @@ const SearchBar = () => {
                     </svg>
                 </a>
                 <a
-                    href="https://www.google.com/search?q=EV+station+fill&oq=EV+station+fill&aqs=chrome..69i57j69i60.467j0j1&sourceid=chrome&ie=UTF-8"
+                    href="https://www.google.com/search?tbs=lf:1,lf_ui:3&tbm=lcl&sxsrf=APwXEddVq6kQRyvaDFvF7mN9TKC81RYmJQ:1685063600310&q=EV+station+fill&rflfq=1&num=10&sa=X&ved=2ahUKEwi74seK55H_AhUemGoFHWK3C5IQjGp6BAggEAE&biw=1920&bih=965&dpr=1"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mx-2"
@@ -63,7 +63,7 @@ const SearchBar = () => {
                     </svg>
                 </a>
                 <a
-                    href="https://www.google.com/search?q=clima+de+hoy&oq=clima+de+hoy&aqs=chrome..69i57.5795j0j1&sourceid=chrome&ie=UTF-8"
+                    href="https://weather.com/es-MX/tiempo/hoy/l/19.58,-99.02?par=google"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mx-2"
@@ -74,7 +74,7 @@ const SearchBar = () => {
                     </svg>
                 </a>
                 <a
-                    href="https://www.google.com/search?q=restaurantes+cerca+de+mi&sxsrf=APwXEdd22LaTfkQy9I4hvz-_mf_p4ZssLw%3A1685046324073&ei=NMRvZL2JBK_ykPIPy8iUsAk&oq=restaurantes+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgsIABCABBCxAxDJAzIICAAQigUQkgMyDggAEIAEELEDEIMBEJIDMgUIABCABDIICAAQgAQQsQMyBQgAEIAEMggIABCKBRCxAzIFCAAQgAQyCAgAEIoFELEDMggIABCKBRCxAzoHCCMQ6gIQJzoVCAAQAxCPARDqAhC0AhCMAxDlAhgBOhUILhADEI8BEOoCELQCEIwDEOUCGAE6BwgjEIoFECc6CwgAEIAEELEDEIMBOgsILhCABBCxAxCDAToOCC4QgwEQ1AIQsQMQgAQ6DgguEIAEELEDEIMBENQCOgcILhCKBRBDOhAILhCKBRCxAxCDARDUAhBDOgoILhCKBRDUAhBDOgQIIxAnOgoIABCKBRDJAxBDOgcIABCKBRBDOhAIABCABBAUEIcCELEDEIMBOgoIABCKBRCxAxBDOggIABCABBDJAzoOCC4QgAQQsQMQxwEQrwE6EQguEIAEELEDEIMBEMcBEK8BSgQIQRgAUABYuxVgoSBoAXABeACAAY4BiAH3CZIBAzguNZgBAKABAbABFMABAdoBBggBEAEYCw&sclient=gws-wiz-serp"
+                    href="https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&sxsrf=APwXEdcPA31HrHkmQ29dOspqnkUpuTp7zA:1685063353096&q=restaurantes+cerca+de+mi&rflfq=1&num=10&sa=X&ved=2ahUKEwi9-taU5pH_AhUiJEQIHW4vA1QQjGp6BAgTEAE&cshid=1685063465484256&biw=1920&bih=965&dpr=1#rlfi=hd:;si:;mv:[[19.595778,-98.9979755],[19.576903,-99.0459382]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u5!2m2!5m1!1sgcid_3mexican_1restaurant!1m4!1u5!2m2!5m1!1sgcid_3taco_1restaurant!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e5!2m1!1e3!3sIAEqAk1Y,lf:1,lf_ui:9"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mx-2"
@@ -85,7 +85,7 @@ const SearchBar = () => {
                     </svg>
                 </a>
                 <a
-                    href="https://www.google.com/search?q=meatballs%2C+more%2C+ellipsis%2C+overflow%2C+menu&oq=meatballs%2C+more%2C+ellipsis%2C+overflow%2C+menu&aqs=chrome..69i57.519j0j1&sourceid=chrome&ie=UTF-8"
+                    href="https://www.estudiantefunval.org/login/index.php"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mx-2"
